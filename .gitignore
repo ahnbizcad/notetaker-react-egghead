@@ -1,0 +1,10 @@
+.DS_Store
+tmp
+
+
+.bundle
+.config
+.yardoc
+.idea
+.sass-cache
+compiled
